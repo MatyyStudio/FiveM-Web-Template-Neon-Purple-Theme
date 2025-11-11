@@ -47,6 +47,12 @@ The page is divided into several logical sections:
     * **Google Fonts:** Uses the `Orbitron` (for headings) and `Exo 2` (for text) fonts.
     * **Font Awesome:** For icons in the feature sections and social links.
 
+## 📞 Contact and Support
+
+Although the HTML file has a navigation link for a `#contact` section that isn't present in the body, the main point of contact for support is the official Discord server.
+
+* **Discord:** [Join us on Discord](https://discord.gg/dBvPBQpKEe)
+
 ## 🔧 How to Run
 
 Since this is a purely static page with no backend, no complex installation is needed.
