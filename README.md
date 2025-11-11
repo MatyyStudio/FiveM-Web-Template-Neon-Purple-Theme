@@ -1,6 +1,10 @@
 # NEON PURPLE - FiveM Server Landing Page
 
-This is a static landing page for a fictional FiveM server called "NEON PURPLE". The page is designed in a modern, futuristic neon/cyberpunk style with an emphasis on visual effects and responsiveness.
+> A responsive, futuristic 'Neon Purple' themed static landing page for a FiveM roleplay server. Built with HTML, CSS, and JavaScript, featuring Particle.js and custom animations.
+
+**Topics:** `fivem` `landing-page` `html` `css` `javascript` `bootstrap` `particle-js` `neon-theme` `cyberpunk` `responsive` `static-website` `gta5-rp`
+
+---
 
 ## 🚀 Project Goal
 
